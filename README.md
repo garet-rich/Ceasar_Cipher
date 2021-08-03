@@ -3,7 +3,7 @@
 ## Project By: [Garet Rich](https://github.com/garet-rich)
 
 ## About
-A ceasar cipher command line tool built with TDD that takes two arguments: Text to be ciphered, and the shift factor. #Negative shift factors are allowed, as are large numbers.#
+A ceasar cipher command line tool built with TDD that takes two arguments: Text to be ciphered, and the shift factor. *Negative shift factors are allowed, as are large numbers.*
 
 ## Setup
 Download Instructions: 
